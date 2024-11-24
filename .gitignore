@@ -1,0 +1,4 @@
+# ignorar los archivos
+archivos_privados
+configuracion_local.sh
+*xcf
